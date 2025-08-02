@@ -31,3 +31,7 @@ Thumbs.db
 # Python virtual environment lock files
 Pipfile.lock
 poetry.lock
+
+
+# Dev containers
+.devcontainer/
