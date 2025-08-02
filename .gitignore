@@ -19,7 +19,6 @@ ENV/
 .cache/
 
 # Model files (optional — if too large or if already deployed)
-*.pkl
 *.joblib
 
 # OS files
