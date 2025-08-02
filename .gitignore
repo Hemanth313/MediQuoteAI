@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment folders
+env/
+venv/
+ENV/
+.venv/
+.idea/
+.vscode/
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# Model files (optional — if too large or if already deployed)
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python virtual environment lock files
+Pipfile.lock
+poetry.lock
